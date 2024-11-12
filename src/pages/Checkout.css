@@ -1,0 +1,20 @@
+
+.checkout-page h2 {
+    color: #333;
+  }
+  
+  .order-summary {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .order-summary div {
+    font-size: 16px;
+  }
+  
+  .order-summary h5 {
+    color: #333;
+    font-weight: bold;
+  }
+  

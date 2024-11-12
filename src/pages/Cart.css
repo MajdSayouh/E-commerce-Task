@@ -1,0 +1,21 @@
+.cart-page h2 {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .cart-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .cart-item img {
+    width: 100px;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .cart-summary h4 {
+    color: #333;
+    font-weight: bold;
+  }
+  

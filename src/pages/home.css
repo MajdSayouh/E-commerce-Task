@@ -1,0 +1,19 @@
+
+.home-page h2 {
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .product-card {
+    margin-bottom: 1.5rem;
+  }
+  
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  
+  .card-text {
+    color: #666;
+  }
+  
